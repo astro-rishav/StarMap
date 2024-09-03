@@ -1,0 +1,13 @@
+{
+  "stars": [
+    { "name": "Sirius", "rightAscension": "06h 45m 08.92s", "declination": "-16° 42' 58.0\"", "magnitude": "-1.46", "spectralType": "A1V" },
+    { "name": "Canopus", "rightAscension": "06h 23m 57.1s", "declination": "-52° 41' 44\"", "magnitude": "-0.74", "spectralType": "F0Ib" },
+    { "name": "Arcturus", "rightAscension": "14h 15m 39.7s", "declination": "+19° 10' 57\"", "magnitude": "-0.05", "spectralType": "K1.5III" },
+    { "name": "Alpha Centauri", "rightAscension": "14h 39m 36.49s", "declination": "-60° 50' 02.4\"", "magnitude": "-0.01", "spectralType": "G2V" },
+    { "name": "Vega", "rightAscension": "18h 36m 56.34s", "declination": "+38° 47' 01.3\"", "magnitude": "0.03", "spectralType": "A0V" },
+    { "name": "Capella", "rightAscension": "05h 16m 41.3s", "declination": "+45° 59' 52\"", "magnitude": "0.08", "spectralType": "G1III" },
+    { "name": "Rigel", "rightAscension": "05h 14m 32.27s", "declination": "-08° 12' 05.9\"", "magnitude": "0.12", "spectralType": "B8Iab" },
+    { "name": "Procyon", "rightAscension": "07h 39m 18.1s", "declination": "+05° 13' 29\"", "magnitude": "0.34", "spectralType": "F5IV-V" },
+    { "name": "Achernar", "rightAscension": "01h 37m 42.8s", "declination": "-57° 14' 12\"", "magnitude": "0.45", "spectralType": "B6Vpe" },
+    { "name": "Betelgeuse", "rightAscension": "05h 55m 10.31s", "declination": "+07° 24' 25.4\"", "magnitude": "0.50", "spectralType": "M2Iab" },
+    { "name": "Altair", "rightAscension": "19h 50m 46.1s", "
